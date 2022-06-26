@@ -1,5 +1,5 @@
 # Technical Skills API
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b644820-1c6b-4a0e-bf2d-945a384d9658/deploy-status)](https://app.netlify.com/sites/mahmud-technical/deploys)
 
 ## [Report](https://mahmud-technical.netlify.app/)
 

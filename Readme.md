@@ -1,7 +1,7 @@
 # Technical Skills API
 
 
-## [Click here to see the report](https://glitchmemahmud.netlify.app/)
+## [Report](https://mahmud-technical.netlify.app/)
 
 ## Endpoints
 
@@ -17,7 +17,7 @@ GET `/status`
 
 Returns the status of the API.
 
-### Single User Skills in details###
+### Single User Skills in details
 
 GET `api/technicalskills/169`
 
